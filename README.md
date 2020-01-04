@@ -1,2 +1,2 @@
-# .github.io
+# qs.github.io
 personal blog

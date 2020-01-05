@@ -16,12 +16,12 @@ exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.
 # 域名配置
 # baseurl配置,如果网站部署在根目录下的其他目录中，请设置为 /目录名
 domainUrl: 'https://qsblublu.github.io/'
-baseurl: 'https://qsblublu.github.io/'
+baseurl: ''
 
 # 菜单
 menu:
   - title: 首页
-    url: /
+    url: /qs.github.io
   - title: 归类
     url: /pages/categories.html
   - title: 搜索
